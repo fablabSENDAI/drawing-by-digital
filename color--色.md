@@ -1,12 +1,19 @@
+---
+layout: default
+title: Color : 色
+nav_order: 6
+has_children: true
+---
+
 # Color : 色
 
 手始めに背景色を変更してます。
 
 ```java
-size(500,400);  //set canvas size as 500x400 
+size(500,400);  //set canvas size as 500x400
 
 //set background color by gray scale 0~255
-background(60); 
+background(60);
 
 //set background color by RGB 0~255
 //background(181,75,72);

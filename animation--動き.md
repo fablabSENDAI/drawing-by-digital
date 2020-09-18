@@ -1,3 +1,10 @@
+---
+layout: default
+title: Animation : 動き
+nav_order: 9
+has_children: true
+---
+
 # Animation : 動き
 
 まずは自動で一直線に動く、ボールを作ってみる。
@@ -17,4 +24,3 @@ void draw(){
   x = x + 1;
 }
 ```
-

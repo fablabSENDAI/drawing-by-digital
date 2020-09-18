@@ -1,3 +1,9 @@
+---
+layout: default
+title: Key input : キー入力
+nav_order: 8
+---
+
 # Key Input : キー入力
 キーボードの入力によって、ボールの色が変わるようにします。
 ```java
@@ -16,7 +22,7 @@ void keyPressed() {
   } else {
     value = 0;
   }
-} 
+}
 ```
 実行結果↓
 ![](/assets/key_input.png)
@@ -44,5 +50,3 @@ void keyPressed() {
   }
 }
 ```
-
-

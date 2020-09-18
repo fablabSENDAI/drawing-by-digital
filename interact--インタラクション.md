@@ -1,3 +1,9 @@
+---
+layout: default
+title: Interact : インタラクション
+nav_order: 7
+---
+
 # Interact : インタラクション
 マウスの位置によってグラフィックを変化させ、インタラクティブにしてみましょう。
 

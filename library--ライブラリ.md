@@ -1,3 +1,10 @@
+---
+layout: default
+title: Library : ライブラリ
+nav_order: 10
+has_children: true
+---
+
 # Library : ライブラリ
 多くのプログラムでは、使える関数や命令を増やす**ライブラリ**というものが存在します。
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Arduino : センサとの連携
+nav_order: 11
+---
+
 #Arduino:センサとの連携
 ProcessingとArduinoを通信させて、センサの値をグラフィックに落とし込んでみます。
 
