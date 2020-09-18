@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shapes : 図形
+title: Shapes - 図形
 nav_order: 5
 has_children: true
 ---

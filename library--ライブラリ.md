@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Library : ライブラリ
+title: Library - ライブラリ
 nav_order: 10
 has_children: true
 ---

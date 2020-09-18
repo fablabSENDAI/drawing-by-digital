@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Animation : 動き
+title: Animation - 動き
 nav_order: 9
 has_children: true
 ---

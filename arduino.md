@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Arduino : センサとの連携
+title: Arduino - センサとの連携
 nav_order: 11
 ---
 
-#Arduino:センサとの連携
+#Arduino : センサとの連携
 ProcessingとArduinoを通信させて、センサの値をグラフィックに落とし込んでみます。
 
 **(1)[Arduinoとは](https://fablabsendai.gitbooks.io/summer-electronics-2016/content/arduinoをはじめよう.html)**

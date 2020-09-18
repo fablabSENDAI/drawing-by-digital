@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interact : インタラクション
+title: Interact - インタラクション
 nav_order: 7
 ---
 

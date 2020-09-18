@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SVG : ベクターデータの読み込み
+title: SVG - ベクターデータの読み込み
 nav_order: 11
 ---
 

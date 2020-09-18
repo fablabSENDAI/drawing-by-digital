@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Key input : キー入力
+title: Key input - キー入力
 nav_order: 8
 ---
 
