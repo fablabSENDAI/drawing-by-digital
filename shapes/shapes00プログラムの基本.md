@@ -1,10 +1,17 @@
+---
+layout: default
+title: Shapes00:プログラムの基礎
+parents: Shapes : 図形
+nav_order: 1
+---
+
 # Shapes00:プログラムの基礎
 
 **祝！初プログラミング達成！**
 
 ですが、ここで実際何が起こっていたのか、順を追ってチェックして、プログラミングの基礎に触れてみましょう
 
-#### 【上から下に】
+## 【上から下に】
 
 パソコンにやってほしい事を伝えるための命令書のことを**プログラム\(Program\)**とか**コード\(Code\)**と呼びます
 
@@ -63,14 +70,12 @@ Processingで使う多くの命令は以下のようになっています↓
 Processingで使える命令の一覧表がズラッと出てきて各命令の機能も事細かに記載されています。  
 早速、[**size\(\)のページ**](https://processing.org/reference/size_.html)を見てみると**Description**という項目のところに、『ウィンドウのサイズを定義する命令』という説明書きがあります。つまり、命令を実行した時に出るウィンドウ↓
 
-  
-![](assets/line_run.png)
+<img src="../assets/line_run.png" alt="hi" class="inline"/>
 
 このサイズを決めるための関数だったのです。  
 そしてページの情報を読み進めていくと、  
 
-
-![](/assets/size_ref.png)
+<img src="../assets/size_ref.png" alt="hi" class="inline"/>
 
 と、書かれており
 **width**の部分に横幅
@@ -82,9 +87,6 @@ size(500,400);
 ```
 と書き込めば、幅500ピクセル x 高さ400ピクセルのウィンドウが表示されます。
 
-![](/assets/line_run_size.png)
+<img src="../assets/line_run_size.png" alt="hi" class="inline"/>
 
 Processingでは、まずこのsize()関数を使ってウィンドウを作り、その中に様々な命令を使ってグラフィックを描いていきます。
-
-
-
