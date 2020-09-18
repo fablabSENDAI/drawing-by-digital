@@ -1,3 +1,10 @@
+---
+layout: default
+title: Shape02:円を描く
+parent: Shapes : 図形
+nav_order: 2
+---
+
 # Shape02:円を描く
 
 楕円を描くための関数**ellipse()**を使って
@@ -6,7 +13,7 @@
 ```java
 size(500,400);  // size of canvas
 
-ellipse(250,200,200,200);  // draw a circle at (250,200), radius= 100 
+ellipse(250,200,200,200);  // draw a circle at (250,200), radius= 100
 ```
 結果↓
 

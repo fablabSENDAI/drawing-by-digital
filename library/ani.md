@@ -1,3 +1,11 @@
+---
+layout: default
+title: Ani
+parent: Library : ライブラリ
+nav_order: 1
+has_children: true
+---
+
 # Ani
 
 動きや色の数値の変化のスピードをコントロールするためのライブラリ。
@@ -118,4 +126,3 @@ Ani.to\(\)という命令をもう少し詳しく説明すると
 **Ani.ELASTIC\_IN\_OUT**
 
 \(詳しくは、[イージングの種類](/library--ライブラリ/ani/30a4-30fc-30b8-30f3-30b0-306e-zhong-lei.md)のページを参照\)
-

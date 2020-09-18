@@ -1,3 +1,10 @@
+---
+layout: default
+title: Color02:RGBとHSB
+parent: Color : 色
+nav_order: 3
+---
+
 #Color02:RGBとHSB
 
 通常**fill()**や**stroke()**の値はRGBで指定しますが、**colorMode()**関数を使用することで、

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Animation00:if文
+parent: Animation : 動き
+nav_order: 1
+---
+
 #Animation00:if文
 if文はある条件をみたすときだけ命令を行うような時に役立ちます。
 ```java

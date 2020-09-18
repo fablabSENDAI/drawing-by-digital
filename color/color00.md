@@ -1,3 +1,10 @@
+---
+layout: default
+title: Color00:塗り
+parent: Color : 色
+nav_order: 1
+---
+
 # Color00:塗り
 
 **Fill()**関数を使えば図形の塗りの色を変えることができます。

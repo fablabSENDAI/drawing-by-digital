@@ -1,3 +1,10 @@
+---
+layout: default
+title: Minim
+parent: Library : ライブラリ
+nav_order: 2
+---
+
 #Minim
 Minim(ミニム)はサウンドの出力•入力を可能にするライブラリで、
 •mp3音源の再生
@@ -53,5 +60,3 @@ void stop() {
 ```
 実行結果↓
 ![](/assets/fft_run.png)
-
-

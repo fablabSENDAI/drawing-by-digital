@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shapes00:プログラムの基礎
-parents: Shapes : 図形
+parent: Shapes : 図形
 nav_order: 1
 ---
 

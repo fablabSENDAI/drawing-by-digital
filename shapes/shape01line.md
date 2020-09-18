@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shape01:線を引く
-parents: Shapes : 図形
+parent: Shapes : 図形
 nav_order: 2
 ---
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Color01:線
+parent: Color : 色
+nav_order: 2
+---
+
+
 #Color01:線
 
 **stroke()**関数は線の色を変更することができます。
@@ -29,4 +37,3 @@ ellipse(250,200,200,200); // draw circle
 
 ### 線無し
 **noStroke()**関数を使うと以降の図形は輪郭線無しで描画されます。
-

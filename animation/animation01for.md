@@ -1,3 +1,10 @@
+---
+layout: default
+title: Animation01:for文
+parent: Animation : 動き
+nav_order: 2
+---
+
 #Animation01:for文
 
 まずは、画面の真ん中で伸縮を繰り返す円を描きます。
@@ -12,13 +19,13 @@ void setup(){
 
 void draw(){
   background(204);
-  
+
   x = x + 1;
-  
+
   if(x >= 50){
     x = 0;
   }
-  
+
    ellipse(250,200,x,x);
 }
 ```
@@ -44,13 +51,13 @@ void setup(){
 
 void draw(){
   background(204);
-  
+
   x = x + 1;
-  
+
   if(x >= 40){
     x = 0;
   }
-  
+
   for(int i=0; i < 9; i++){
     ellipse(i*50+50, 250, (x+i*4)%41, (x+i*4)%41);
   }
@@ -75,13 +82,13 @@ void setup(){
 
 void draw(){
   background(204);
-  
+
   x = x + 1;
-  
+
   if(x >= 40){
     x = 0;
   }
-  
+
   for(int i=0; i < 9; i++){
     for(int j=0; j < 9; j++){
       ellipse(i*50+50, j*50+50, (x+(i+j)*4)%41, (x+(i+j)*4)%41);

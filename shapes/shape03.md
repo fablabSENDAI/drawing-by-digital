@@ -1,3 +1,10 @@
+---
+layout: default
+title: Shape03:長方形を描く
+parent: Shapes : 図形
+nav_order: 3
+---
+
 # Shape03:長方形を描く
 長方形を描くための関数**rect()**を使って
 シンプルな正方形を描いてみましょう。
