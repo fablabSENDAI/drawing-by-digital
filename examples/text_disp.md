@@ -1,4 +1,11 @@
-#テキストを使う 
+---
+layout: default
+title: テキストを使う
+parent: サンプルコード
+nav_order: 9
+---
+
+#テキストを使う
 
 text()関数でキャンバス内に文字を表示することも可能です。
 
@@ -16,10 +23,10 @@ void setup() {
 
 void draw() {
   background(204);
-  
+
   textSize(32);
   fill(255);
-  text("white", 10, 30); 
+  text("white", 10, 30);
   fill(0, 102, 153);
   text("blue", 10, 60);
   fill(0, 102, 153, 51);

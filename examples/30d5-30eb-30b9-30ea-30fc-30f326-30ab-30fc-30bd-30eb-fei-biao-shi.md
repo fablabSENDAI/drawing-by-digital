@@ -1,3 +1,10 @@
+---
+layout: default
+title: フルスクリーン&カーソル非表示
+parent: サンプルコード
+nav_order: 2
+---
+
 #フルスクリーン&カーソル非表示
 
 ###サンプルコード
@@ -11,6 +18,6 @@ void setup(){
 }
 
 void draw(){
-  
+
 }
 ```

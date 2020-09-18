@@ -1,4 +1,11 @@
-FFTの要素を１つだけ取り出して、その要素の強さを円の塗りに反映します。
+---
+layout: default
+title: FFTの要素１つの強さを円の塗りに反映
+parent: サンプルコード
+nav_order: 4
+---
+
+# FFTの要素を１つだけ取り出して、その要素の強さを円の塗りに反映します。
 
 ```java
 import ddf.minim.analysis.*;
@@ -27,18 +34,18 @@ void draw() {
 
   //FFT変換実行
   fft.forward(in.mix);
-  
- /* 
+
+ /*
   //グラフ生成
   for (int i = 0; i < fft.specSize(); i++) {
     float x = map(i, 0, fft.specSize(), 0, width);
     line(x, height, x, height - fft.getBand(i)*8);
   }*/
-  
+
   //fft.getBand()に入れる値は、0(最低音)〜526(最高音)
   fill(fft.getBand(120)*10);
   ellipse(width/2, height/2, 200, 200);
-  
+
 }
 
 void stop() {

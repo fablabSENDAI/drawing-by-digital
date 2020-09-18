@@ -1,3 +1,10 @@
+---
+layout: default
+title: 複数のアニメーションの切替え
+parent: サンプルコード
+nav_order: 7
+---
+
 # 複数のアニメーションの切替え
 
 数字キー\(1or2\)を押すことで、アニメーションを切り替える
@@ -22,7 +29,7 @@ void keyPressed() {
     mode = 1;
   }else if(key == '2'){
     mode = 2;
-  } 
+  }
   background(204);
 }
 ```
@@ -39,7 +46,7 @@ void setup(){
   noFill();
   strokeWeight(4);
   smooth();
-  
+
   rectMode(CORNERS);
 }
 
