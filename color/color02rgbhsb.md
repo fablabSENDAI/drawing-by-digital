@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Color02:RGBとHSB
-parent: Color : 色
+title: Color02 - RGBとHSB
+parent: Color - 色
 nav_order: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Color01:線
-parent: Color : 色
+title: Color01 - 線
+parent: Color - 色
 nav_order: 2
 ---
 

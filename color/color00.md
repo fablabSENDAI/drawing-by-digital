@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Color00:塗り
-parent: Color : 色
+title: Color00 - 塗り
+parent: Color - 色
 nav_order: 1
 ---
 

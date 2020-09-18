@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Animation00:if文
-parent: Animation : 動き
+title: Animation00 - if文
+parent: Animation - 動き
 nav_order: 1
 ---
 

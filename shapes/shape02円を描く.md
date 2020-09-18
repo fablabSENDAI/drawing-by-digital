@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Shape02:円を描く
-parent: Shapes : 図形
+title: Shape02 - 円を描く
+parent: Shapes - 図形
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Minim
-parent: Library : ライブラリ
+parent: Library - ライブラリ
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Animation01:for文
-parent: Animation : 動き
+title: Animation01 - for文
+parent: Animation - 動き
 nav_order: 2
 ---
 

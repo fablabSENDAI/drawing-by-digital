@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ani
-parent: Library : ライブラリ
+parent: Library - ライブラリ
 nav_order: 1
 has_children: true
 ---
