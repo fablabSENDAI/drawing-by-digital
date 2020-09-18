@@ -59,4 +59,4 @@ void stop() {
 }
 ```
 実行結果↓
-![](/assets/fft_run.png)
+<img src="../assets/fft_run.png" alt="hi" class="inline"/>

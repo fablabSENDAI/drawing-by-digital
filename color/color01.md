@@ -26,7 +26,7 @@ strokeWeight(10);  //change path width
 ellipse(250,200,200,200); // draw circle
 ```
 実行結果↓
-![](/assets/stroke_run.png)
+<img src="../assets/stroke_run.png" alt="hi" class="inline"/>
 
 また、上記の例には線幅を変更する関数と線を消す関数(コメントにより無効になっています)も書き込まれています。
 

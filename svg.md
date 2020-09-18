@@ -10,7 +10,7 @@ SVG形式でデータ保存して、プログラムフォルダの中にSVGデ�
 
 フォルダの構造としてはこのような感じになっております↓
 
-![](/assets/svg_folder.png)
+<img src="assets/svg_folder.png" alt="hi" class="inline"/>
 (わかりやすさのためにdataフォルダを作っています)
 
 
@@ -36,4 +36,4 @@ void mousePressed() {
 ```
 実行結果↓
 
-![](/assets/svg_run.png)
+<img src="assets/svg_run.png" alt="hi" class="inline"/>

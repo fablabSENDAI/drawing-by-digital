@@ -34,5 +34,4 @@ void draw() {
 }
 ```
 実行結果↓
-
-![](/assets/text_run.png)
+<img src="../assets/text_run.png" alt="hi" class="inline"/>

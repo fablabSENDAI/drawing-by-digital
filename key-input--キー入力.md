@@ -25,7 +25,7 @@ void keyPressed() {
 }
 ```
 実行結果↓
-![](/assets/key_input.png)
+<img src="assets/key_input.png" alt="hi" class="inline"/>
 
 ###押されたキーを判別する
 あらかじめProcessing側で用意されている変数**key**にはタイプされたキーボードの文字が入っています。これとif文を利用してタイプされた文字に対して別々に反応するようなプログラムを書いてみましょう

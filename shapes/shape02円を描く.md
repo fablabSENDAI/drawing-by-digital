@@ -17,7 +17,7 @@ ellipse(250,200,200,200);  // draw a circle at (250,200), radius= 100
 ```
 結果↓
 
-![](/assets/ellipse_run.png)
+<img src="../assets/ellipse_run.png" alt="hi" class="inline"/>
 
 関数ellipse()は通常以下のように使います
 
@@ -45,7 +45,7 @@ ellipse(350,150,450,250);
 
 結果↓
 
-![](/assets/ellipseMode_run.png)
+<img src="../assets/ellipseMode_run.png" alt="hi" class="inline"/>
 
 一見同じ様な円が３つ並んでいるように見えますが、実はひとつづつ異なるellipse()の使い方で描画されています。
 
@@ -67,4 +67,4 @@ ellipseMode()と言う関数を使うと、異なる引数で円が描けるよ�
 
 ######デフォルトに戻したい場合は、ellipseMode(CENTER);
 
-![](/assets/ellipseMode_run_text.png)
+<img src="../assets/ellipseMode_run_text.png" alt="hi" class="inline"/>

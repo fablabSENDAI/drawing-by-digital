@@ -19,7 +19,7 @@ void draw(){
 }
 ```
 実行結果↓
-![](/assets/mouse_XY_run.png)
+<img src="assets/mouse_XY_run.png" alt="hi" class="inline"/>
 
 ###setup()とdraw()
 Processingでの基本的なコードの書き方として、
@@ -65,4 +65,4 @@ void draw(){
   ellipse(mouseX, mouseY, 100, 100);
 }
 ```
-######**background()**は背景の色を変更するというよりかは、キャンバス全面を指定した色で塗りつぶす機能だということがわかります
+#####**background()**は背景の色を変更するというよりかは、キャンバス全面を指定した色で塗りつぶす機能だということがわかります

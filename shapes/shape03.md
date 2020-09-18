@@ -17,7 +17,7 @@ rect(150,100,200,200);
 ```
 結果↓
 
-![](/assets/rect_run.png)
+<img src="../assets/rect_run.png" alt="hi" class="inline"/>
 
 関数rect()は通常以下のように使います
 
@@ -45,7 +45,7 @@ rect(350,150,450,250);
 
 結果↓
 
-![](/assets/rectMode_run.png)
+<img src="../assets/rectMode_run.png" alt="hi" class="inline"/>
 
 一見同じ様な正方形が３つ並んでいるように見えますが、実はひとつづつ異なるrect()の使い方で描画されています。
 
@@ -67,4 +67,4 @@ rectMode()と言う関数を使うと、異なる引数で長方形が描ける�
 
 ######デフォルトに戻したい場合は、rectMode(CORNER);
 
-![](/assets/rectMode_run_text.png)
+<img src="../assets/rectMode_run_text.png" alt="hi" class="inline"/>

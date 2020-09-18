@@ -25,7 +25,7 @@ background(60);
 
 ↓そのまま実行した結果
 
-![](/assets/background_run.png)
+<img src="assets/background_run.png" alt="hi" class="inline"/>
 
 **background()**関数は指定した色を背景色にします。
 指定の仕方は複数あり...

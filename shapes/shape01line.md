@@ -18,7 +18,7 @@ line(0,200,500,200);　// <-　２行目
 先ほどと同じく、分からない関数があったらProcessingのリファレンスページを見てみます。  
 [line\(\)のページ](https://processing.org/reference/line_.html)を見てみると以下のように書かれております
 
-![](/assets/line_ref.png)
+<img src="../assets/line_ref.png" alt="hi" class="inline"/>
 
 **Description**によるとline\(\)はその名の通り、線を引くため関数で\(\)内に２点のxy座標を入れるとその点同士を結ぶ直線を引いてくれます。  
 \(今は2Dグラフィックのモードなので、Z座標は無視します。\)
@@ -34,8 +34,7 @@ line(0,200,500,200);
 
 と書くと以下のようになります。
 
-![](/assets/line_run_line.png)
-
+<img src="../assets/line_run_line.png" alt="hi" class="inline"/>
 
 ウィンドウの左上が原点\(0,0\)であり、\(0,200\)から\(0,500\)まで直線が引かれております。
 

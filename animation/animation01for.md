@@ -30,7 +30,7 @@ void draw(){
 }
 ```
 実行結果↓
-![](/assets/single_run.png)
+<img src="../assets/single_run.png" alt="hi" class="inline"/>
 
 #for文
 for文を使えば任意の命令を好きな回数だけ繰り返すことができます
@@ -65,6 +65,7 @@ void draw(){
 ```
 実行結果↓
 ![](/assets/multi_run.png)
+<img src="../assets/multi_run.png" alt="hi" class="inline"/>
 ######※ %で割ることで、伸縮の周期をずらしています
 
 ###縦方向にも並べる
@@ -97,4 +98,4 @@ void draw(){
 }
 ```
 実行結果↓
-![](/assets/matrix_run.png)
+<img src="../assets/matrix_run.png" alt="hi" class="inline"/>

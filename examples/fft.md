@@ -53,4 +53,3 @@ void stop() {
   super.stop();
 }
 ```
-実行結果↓

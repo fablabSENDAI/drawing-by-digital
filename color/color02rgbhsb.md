@@ -26,7 +26,7 @@ ellipse(350,200,150,150); // draw circle
 
 実行結果↓
 
-![](/assets/colorMode.png)
+<img src="../assets/colorMode.png" alt="hi" class="inline"/>
 
 **colorMode(RGB);**と書いた行以降は、RGB指定による色の選択になるため、
 **fill(R,G,B);**として認識され(こちらがデフォルトの状態)
