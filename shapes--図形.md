@@ -18,7 +18,7 @@ line(0,200,500,200);  // draw a line from (0,200) to (500, 200)
 
 <img src="assets/line_sketch.png" alt="hi" class="inline"/>
 
-画面左上にある実行\(RUN\)ボタンを押します<img src="images/assets/run_button.png" alt="hi" class="inline"/>
+画面左上にある実行\(RUN\)ボタンを押します<img src="assets/run_button.png" alt="hi" class="inline"/>
 
 すると書いたプログラムが実行され下のようなウィンドウが表示されます
 
