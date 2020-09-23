@@ -1,10 +1,10 @@
 ---
 layout: default
-title: SVG - ベクターデータの読み込み
+title: Import SVG - SVGデータ読み込み
 nav_order: 11
 ---
 
-#SVG:ベクターデータの読み込み
+# Import SVG : ベクターデータの読み込み
 イラストレータで作ったデータを読み込ませることも可能です。
 SVG形式でデータ保存して、プログラムフォルダの中にSVGデータを置きます。
 
