@@ -48,4 +48,4 @@ void draw() {
 ```
 
 実行結果　↓
-<img src="assets/millis_sample.png" alt="hi" class="inline"/>
+<img src="../assets/millis_sample.png" alt="hi" class="inline"/>
