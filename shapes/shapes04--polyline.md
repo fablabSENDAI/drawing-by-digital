@@ -22,6 +22,7 @@ endShape();
 ```
 
 結果↓
+
 <img src="../assets/vertex_open.png" alt="hi" class="inline"/>
 
 **beginShape();**から**endShape();**の間に入れた**vertex();**の座標を繋いで図形を作ってくれます。これなら、線の色だけでなく塗の色もfill();で指定できます。
@@ -41,6 +42,7 @@ endShape(CLOSE); //close shape with line.
 ```
 
 結果↓
+
 <img src="../assets/vertex_close.png" alt="hi" class="inline"/>
 
 おなじ座標の組み合わせでも順番を変えると、図形も変化します。
@@ -59,4 +61,5 @@ endShape(CLOSE); //close shape with line.
 ```
 
 結果↓
+
 <img src="../assets/vertex_twist.png" alt="hi" class="inline"/>
