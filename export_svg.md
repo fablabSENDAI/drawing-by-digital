@@ -17,10 +17,12 @@ import processing.svg.*;
 void setup() {
   size(400, 400);
   noLoop();
-  beginRecord(SVG, "filename.svg");
+
 }
 
 void draw() {
+  beginRecord(SVG, "filename.svg");
+  // use background() here
   // Draw something good here
   line(0, 0, width/2, height);
 
