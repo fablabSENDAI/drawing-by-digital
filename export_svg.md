@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Export SVG - SVGデータ出力
-nav_order: 12
+nav_order: 14
 ---
 
 # Export SVG - SVGデータ出力

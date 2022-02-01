@@ -1,15 +1,15 @@
 ---
 layout: default
-title: ランダム関数を使う
-parent: サンプルコード
-nav_order: 8
+title: Random - 乱数
+nav_order: 10
+has_children: true
 ---
 
-# ランダム関数を使う
+# Random : 乱数
 
 random()は指定した範囲からランダムに数を出力してくれる関数です。
 
-#####例：
+##### 例：
 random(80)とすると、0 < = 出力する値　< = 80
 
 random(80,100)とすると、80 < = 出力する値　< = 100
