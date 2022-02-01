@@ -36,6 +36,8 @@ nav_order: 3
 
 •[Possible,plausible,potential](https://vimeo.com/143076578) - by Miguel Nóbrega
 
+•[takawo daily coding](https://openprocessing.org/user/6533?view=sketches) - by Shunsuke Takawo
+
 
 
 ###### **///Physical Object///**
