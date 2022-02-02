@@ -19,7 +19,9 @@ X要素とY要素で座標を表す[直交座標](https://ja.wikipedia.org/wiki/
 ### サンプルコード1(丸を丸く並べる)
 
 ```java
+float x = 0;
 float y = 0;
+float r = 150;
 int ball_num = 12;
 
 void setup(){
