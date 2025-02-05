@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 # Shape03:長方形を描く
-長方形を描くための関数**rect()**を使って
+長方形を描くための関数 **rect()** を使って
 シンプルな正方形を描いてみましょう。
 
 ```java
@@ -53,18 +53,18 @@ rectMode()と言う関数を使うと、異なる引数で長方形が描ける�
 
 左から順に説明していくと...
 
-**rectMode(CENTER);**という行以降では
-**rect(中心のX座標, 中心のY座標, 長方形の幅, 長方形の高さ);**
+**rectMode(CENTER);** という行以降では<br>
+**rect(中心のX座標, 中心のY座標, 長方形の幅, 長方形の高さ);**<br>
 ※最初のモードとほぼ同じですが中心の座標を指定します
 
-**rectMode(RADIUS);**という行以降では
-**rect(中心のX座標, 中心のY座標,　長方形の幅/2,　長方形の高さ/2);**
+**rectMode(RADIUS);** という行以降では<br>
+**rect(中心のX座標, 中心のY座標,　長方形の幅/2,　長方形の高さ/2);**<br>
 ※中心座標を基準に幅と高さを半径で指定します
 
-**rectMode(CORNERS);**という行以降では
-**rect(点AのX座標, 点AのY座標, 点BのX座標, 点BのY座標);**
+**rectMode(CORNERS);** という行以降では<br>
+**rect(点AのX座標, 点AのY座標, 点BのX座標, 点BのY座標);**<br>
 ※点Aと点Bが対角関係にある直角長方形を描きます
 
-######デフォルトに戻したい場合は、rectMode(CORNER);
+###### デフォルトに戻したい場合は、rectMode(CORNER);
 
 <img src="../assets/rectMode_run_text.png" alt="hi" class="inline"/>

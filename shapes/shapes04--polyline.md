@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 # Shape04:複雑な図形
-イラレのペンツールのように、点(vertex)同士を結んだ図形を描くための関数**vertex()**を使って
+イラレのペンツールのように、点(vertex)同士を結んだ図形を描くための関数 **vertex()** を使って
 より複雑な図形を描いてみましょう。
 
 ```java
@@ -25,7 +25,7 @@ endShape();
 
 <img src="../assets/vertex_open.png" alt="hi" class="inline"/>
 
-**beginShape();**から**endShape();**の間に入れた**vertex();**の座標を繋いで図形を作ってくれます。これなら、線の色だけでなく塗の色もfill();で指定できます。
+**beginShape();** から **endShape();** の間に入れた **vertex();** の座標を繋いで図形を作ってくれます。これなら、線の色だけでなく塗の色もfill();で指定できます。
 
 また、endShape(CLOSE);と書くと始点と終点を直線で繋いでくれます。
 

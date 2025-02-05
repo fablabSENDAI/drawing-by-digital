@@ -7,7 +7,7 @@ nav_order: 2
 
 # Shape02:円を描く
 
-楕円を描くための関数**ellipse()**を使って
+楕円を描くための関数 **ellipse()** を使って
 シンプルな円を描いてみましょう。
 
 ```java
@@ -53,18 +53,18 @@ ellipseMode()と言う関数を使うと、異なる引数で円が描けるよ�
 
 左から順に説明していくと...
 
-**ellipseMode(RADIUS);**という行以降では
-**ellipse(中心のX座標, 中心のY座標,　楕円の半径(X方向),　楕円の半径(Y方向));**
+**ellipseMode(RADIUS);** という行以降では<br>
+**ellipse(中心のX座標, 中心のY座標,　楕円の半径(X方向),　楕円の半径(Y方向));**<br>
 ※最初のモードとほぼ同じだが直径ではなく半径で高さと幅を指定します
 
-**ellipseMode(CORNER);**という行以降では
-**ellipse(左端のX座標, 上端のY座標,　楕円の幅,　楕円の高さ);**
+**ellipseMode(CORNER);** という行以降では<br>
+**ellipse(左端のX座標, 上端のY座標,　楕円の幅,　楕円の高さ);**<br>
 ※与えられた左端と上端を基準に与えられた幅と高さどおりの楕円を描きます
 
-**ellipseMode(CORNERS);**という行以降では
-**ellipse(点AのX座標, 点AのY座標, 点BのX座標, 点BのY座標);**
+**ellipseMode(CORNERS);** という行以降では<br>
+**ellipse(点AのX座標, 点AのY座標, 点BのX座標, 点BのY座標);**<br>
 ※点Aと点Bが対角関係にある直角長方形に内接する楕円形を描きます
 
-######デフォルトに戻したい場合は、ellipseMode(CENTER);
+###### デフォルトに戻したい場合は、ellipseMode(CENTER);
 
 <img src="../assets/ellipseMode_run_text.png" alt="hi" class="inline"/>
